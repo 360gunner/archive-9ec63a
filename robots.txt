@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://360gunner.github.io/archive-9ec63a/sitemap.xml
